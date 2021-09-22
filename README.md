@@ -4,4 +4,4 @@ Equipo Complejidad Algoritmica
 ## Integrantes
 * Anto Chávez, Carolain
 * Atarama Leon, Diego Sebastian
-* Salazar Zapata, Julio
+* Salazar Zapata, Julio Alexander 
