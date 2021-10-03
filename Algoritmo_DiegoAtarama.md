@@ -24,6 +24,7 @@ Estos 5 o más nodos serán guardados en una lista que sera permutada para halla
 Junto a algunas estructuras condicionales para aplicar ciertas restricciones, este algoritmo se repetirá para cada vehiculo hasta que todos los puntos de entrega hayan sido visitados.
 Al final, se mostrara el tiempo y distancia de cada vehículo.
 Este algoritmo no garantiza una solución perfecta, pero si una en donde todos los clientes recibiran sus demandas de manera rápida y efectiva.
+Al ser una creación propia, aun no cuento con el correcto análisis de complejidad o pseudocódigo.
 
 
     
