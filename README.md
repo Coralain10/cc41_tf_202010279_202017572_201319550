@@ -10,7 +10,8 @@ Equipo Complejidad Algoritmica
 | N | Actividad | Responsable |
 | - | --------- | ---------- |
 | 1 | Generar los puntos de entrega y distribución acorde a los rangos establecidos para los puntos de entrega y distribución. | Diego Atarama
-| 2 | Calcular los costos entre nodos (considerar una restricción de distancia entre nodos, similar a un rango de alcance). | Carolain Anto
-| 3 | Guardar los datos generados en un dataset. | Julio Salzar
-| 4 | Realizar 1 algoritmo de ciclo hamiltoniano por integrante. | Diego Atarama, Carolain Anto, Julio Salazar
-| 5 | Presentación del TP. | Diego Atarama, Carolain Anto, Julio Salazar
+| 2 | Realizar el diagrama de Espacio de Búsqueda | Carolain Anto
+| 3 | Calcular los costos entre nodos (considerar una restricción de distancia entre nodos, similar a un rango de alcance). | Julio Salzar
+| 4 | Guardar los datos generados en un dataset. | Carolain Anto
+| 5 | Realizar 1 algoritmo de ciclo hamiltoniano por integrante. | Diego Atarama, Carolain Anto, Julio Salazar
+| 6 | Presentación del TP. | Diego Atarama, Carolain Anto, Julio Salazar
