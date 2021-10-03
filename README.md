@@ -17,3 +17,5 @@ Equipo Complejidad Algoritmica
 | 6 | Presentación del TP. | Diego Atarama, Carolain Anto, Julio Salazar
 ## Vehiculos
 Cada vehiculo contará con una cantidad máxima de gasolina, que deberá gastar para volver a su punto de distribución
+## Video
+URL del video en YouTube: https://youtu.be/a0xTePT-tT8
