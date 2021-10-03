@@ -1,7 +1,7 @@
 # Antes de empezar:
 - Se creará la funcion "distancia" y "adyacencia", para la creación de la matriz de adyacencia que se usará en el algoritmo
 - Cada nodo tendrá conexión con todos los demás, excepto condigo mismo, y será un grafo simétrico
-#### Funcion distancia
+### Funcion distancia
 1. Recibe como parámetros dos puntos
 2. Saca los valores x1, x2, y1, y2
 3. Retorna la distancia utilizando una formula matemática
