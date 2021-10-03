@@ -19,8 +19,8 @@
 4. Retornar la matriz
 
 # Algoritmo
-El algoritmo utilizará la tecnica de la fuerza bruta, por lo que será un algoritmo extenso, y de gran complejidad. La idea se centra en identificar una ruta aleatoria, que contenga un minimo de 5 nodos de entrega, no visitados anteriormente, a partir de un punto de distribución. Esta ruta deberá ser posible con la cantidad de gasolina disponible para el vehículo.
-Estos 5 o más nodos serán guardados en una lista que sera permutada para hallar todas las rutas posibles para visitar cada nodo y volver al punto de distribución. Entre todas estas rutas, se elegirá la de menor distancia y tiempo, esos datos le corresponderan al vehículo respectivo.
+El algoritmo utilizará la tecnica de fuerza bruta, por lo que será un algoritmo extenso, y de gran complejidad. La idea se centra en identificar una ruta aleatoria, que contenga un minimo de 5 nodos de entrega, no visitados anteriormente, a partir de un punto de distribución. Esta ruta deberá ser posible con la cantidad de gasolina disponible para el vehículo.
+Estos 5 o más nodos serán guardados en una lista que será permutada para hallar todas las rutas posibles para visitar cada nodo y volver al punto de distribución. Entre todas estas rutas, se elegirá la de menor distancia y tiempo, esos datos le corresponderan al vehículo respectivo.
 Junto a algunas estructuras condicionales para aplicar ciertas restricciones, este algoritmo se repetirá para cada vehiculo, para cada punto de distribución, hasta que todos los puntos de entrega hayan sido visitados.
 Al final, se mostrara el tiempo y distancia de cada vehículo.
 Este algoritmo no garantiza una solución perfecta, pero si una en donde todos los clientes recibiran sus demandas de manera rápida y efectiva.
