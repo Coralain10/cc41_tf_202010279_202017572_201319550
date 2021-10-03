@@ -24,6 +24,32 @@ se consideran algunas restricciones:
 3. La distancia entre nodos de entrega deberá ser menor o igual a la distancia máxima entre nodos
   * Ello permite mantener reducir las posibilidades de agrupación de nodos y disminuir las distancias.
 
+## Pseudocódigo (versión inicial)
+G: lista de adyacencia de puntos de distribución y de entrega
+md: máxima distancia
+
+```
+Función vecino_mas_cercano(v, md): 
+ cv = infinito #costo inicial infinito
+ vmc = None #vmc refiere al vecino más cercano
+ Por cada u en v:
+  Si v es tipo distribución o su costo es mayor a la máxima distancia:
+   continuar
+  Sino Si el costo de u a v es menor a cv:
+   vmc = v
+  retornar vmc
+ 
+Función nodo_mas_cercano(G, md): 
+ vmcs = lista
+ Por cada d punto de distribución:
+  camino = lista
+  Mientras sea Verdad:
+   vmc = vecino_mas_cercano(G[vmc], md) 
+   Si vmc es == a d o vacío:
+    Romper bucle
+ 
+```
+
 ## Complejidad algorítmica
 Se estima que el algoritmo debería tener una complejidad menor a
 <img src="https://latex.codecogs.com/svg.latex?1+log(n)/2" /> 
