@@ -15,3 +15,5 @@ Equipo Complejidad Algoritmica
 | 4 | Guardar los datos generados en un dataset. | Carolain Anto
 | 5 | Realizar 1 algoritmo de ciclo hamiltoniano por integrante. | Diego Atarama, Carolain Anto, Julio Salazar
 | 6 | Presentación del TP. | Diego Atarama, Carolain Anto, Julio Salazar
+## Vehiculos
+Cada vehiculo contará con una cantidad máxima de gasolina, que deberá gastar para volver a su punto de distribución
