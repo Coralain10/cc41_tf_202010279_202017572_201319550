@@ -11,9 +11,9 @@
 3. Para cada fila i  hacer:
     - Para cada columna j hacer:
         - si j>i, entonces
-             - sacar la distancia  del punto en la posicion i de la lista con el punto en la posicion j
-            - sacar la gasolina necesaria para la ruta entre los dos puntos
-            - Ingresr, en la posicion i,j de la matriz, (distancia, gasolina)
+             - Calcular la distancia  del punto en la posicion i de la lista con el punto en la posicion j
+            - Obtener la gasolina necesaria para la ruta entre los dos puntos
+            - Ingresar, en la posicion i,j de la matriz, (distancia, gasolina)
         - si j<i, entonces:
             - Ingresar, en la posicion i,j de la matriz, el valor de la posicion j,i
 4. Retornar la matriz
