@@ -21,7 +21,7 @@ Equipo Complejidad Algoritmica
 | 8 | Implementar el algoritmo de ciclo hamiltoniano definido por integrante. | Diego Atarama, Carolain Anto, Julio Salazar
 
 ## Vehiculos
-Cada vehiculo contará con una cantidad máxima de gasolina, que deberá gastar para volver a su punto de distribución
+Cada vehiculo entregará pedidos solo a los puntos de entrega que se encuentren más cerca a él.
 
 ## Video (presentación Trabajo Parcial)
 URL del video en YouTube: https://youtu.be/a0xTePT-tT8
@@ -33,6 +33,11 @@ URL del video en YouTube: https://youtu.be/a0xTePT-tT8
 <br>
 
 ## Implementación de los algoritmos
-
+  - Diego Atarama: Implementó un algoritmo de fuerza bruta que solucionaba el problema como si del problema del agente viajero se trataba. Con este algoritmo se llega a una solución óptima.
+  - Carolain Anto: Implementó un algoritmo greedy para calcular la ruta siguiendo siempre al vecino mas cercano. Este algoritmo no llega a la solución óptima, pero sí a una muy cercana.
+  - Julio Salazar: Con ayuda del algoritmo Kruskal, implementó un algoritmo para llegar a una solución óptima.
+  Los algoritmos fueron codeados en el archivo Trabajo_Final.pynb
 
 ## Video (presentación Trabajo Final)
+
+- https://www.youtube.com/watch?v=Gr-0Ke7MOLE&ab_channel=JulioSalazar
