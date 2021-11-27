@@ -36,6 +36,7 @@ URL del video en YouTube: https://youtu.be/a0xTePT-tT8
   - Diego Atarama: Implementó un algoritmo de fuerza bruta que solucionaba el problema como si del problema del agente viajero se trataba. Con este algoritmo se llega a una solución óptima.
   - Carolain Anto: Implementó un algoritmo greedy para calcular la ruta siguiendo siempre al vecino mas cercano. Este algoritmo no llega a la solución óptima, pero sí a una muy cercana.
   - Julio Salazar: Con ayuda del algoritmo Kruskal, implementó un algoritmo para llegar a una solución óptima.
+  <br>
   Los algoritmos fueron codeados en el archivo Trabajo_Final.pynb
 
 ## Video (presentación Trabajo Final)
