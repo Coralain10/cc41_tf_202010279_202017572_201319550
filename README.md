@@ -37,7 +37,7 @@ URL del video en YouTube: https://youtu.be/a0xTePT-tT8
   - Carolain Anto: Implementó un algoritmo greedy para calcular la ruta siguiendo siempre al vecino mas cercano. Este algoritmo no llega a la solución óptima, pero sí a una muy cercana.
   - Julio Salazar: Con ayuda del algoritmo Kruskal, implementó un algoritmo para llegar a una solución óptima.
   <br>
-  Los algoritmos fueron codeados en el archivo Trabajo_Final.pynb
+  Los algoritmos fueron codeados en el archivo Trabajo_Final.ipynb
 
 ## Video (presentación Trabajo Final)
 
